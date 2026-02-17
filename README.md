@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hii, I´m Angel</h1>
-<br>
 <h3 align="center">Data Analyst | Data scientist</h3>
-
-<!-- Banner centrado -->
-<div align="center">
-  <img src="https://mx.pinterest.com/pin/926756429586903387/" alt="Banner personal" width="100%" style="max-width: 1200px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
+<br>
 
 <h1 align="center"> About me  </h1>
 <p align="center">
