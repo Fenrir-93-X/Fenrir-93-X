@@ -73,3 +73,9 @@
 </div>
 
 <h2 align="Center">Connect with me:</h2>
+
+<p align="Center">
+<a href="https://www.linkedin.com/in/atorres186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+
+</p>
+
