@@ -53,20 +53,13 @@
   </a>
 </p>
 
-<h1 align="center"> GitHub Stats  </h1>
-<h3 align="center">📊 GitHub Stats</h3>
+<h1 align="center">GitHub Stats</h1>
 
 <div align="center">
   <table>
     <tr>
       <td style="border: 2px solid #444; border-radius: 12px; padding: 8px; background-color: #0d1117;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Fenrir-93-X&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
-      </td>
-      <td style="border: 2px solid #444; border-radius: 12px; padding: 8px; background-color: #0d1117;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenrir-93-X&theme=dark&hide_border=true" alt="GitHub Streak" />
-      </td>
-      <td style="border: 2px solid #444; border-radius: 12px; padding: 8px; background-color: #0d1117;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenrir-93-X&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+        <img src="https://streak-stats.demolab.com/?user=Fenrir-93-X&theme=dark&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
